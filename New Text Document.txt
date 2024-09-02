@@ -17,3 +17,13 @@ Set your email address: git config --global user.email "umerfaru47@gmail.com"
 start git
 
 git clone https://github.com/umerfaru/git_notes.git
+
+
+git status
+
+git add .
+
+git commit -m "changes name"
+
+git push
+
