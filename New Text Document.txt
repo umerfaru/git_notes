@@ -1,0 +1,19 @@
+git clone
+
+git add .  //dot All 
+
+git commit -m "change update"
+
+git push
+
+
+//config cmd
+
+Set your username: git config --global user.name "umerfaru"
+Set your email address: git config --global user.email "umerfaru47@gmail.com"
+
+
+
+start git
+
+git clone https://github.com/umerfaru/git_notes.git
